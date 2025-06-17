@@ -79,7 +79,7 @@ Kindly note that the dataset for this analysis was given to us by the **Incubato
 
 
 ### Contact me
-You can reach out to me on (LinkedIn via this link) [https://linkedin.com/in/valentineebi] 
+You can reach out to me on LinkedIn via this link (https://linkedin.com/in/valentineebi) 
 
 
 

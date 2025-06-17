@@ -6,7 +6,7 @@ The attrition rate at **Incubator Hub** stands at **16.12%**, with the majority 
 
 This Power BI dashboard provides a comprehensive analysis of employee Attrition at Incubator Hub, with a focus on identifying trends and insights across multiple employee attributes. The dataset includes **1,470 employees** and tracks both current and former employees.
 
-## Ojective
+## Objective
 The objective of this project is to analyse and uncover insights on the causes of Attrition and Recommend Possible solutions.
 
 ## Key KPIs
@@ -22,7 +22,7 @@ The objective of this project is to analyse and uncover insights on the causes o
 
 ![Attrition Analysis ](https://github.com/user-attachments/assets/2cd6cb0f-bcd2-4dfd-b3f2-5c18cd94e66a)
 
-## Isights based on the Analysis
+## Insights based on the Analysis
 
 ### 1. Attrition by Department 
 *	R&D: have the highest Attrition of 133 employees (56%)
